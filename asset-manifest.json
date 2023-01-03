@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/study-react-movies/static/css/main.954e7325.css",
+    "main.js": "/study-react-movies/static/js/main.8a78f86d.js",
+    "index.html": "/study-react-movies/index.html",
+    "main.954e7325.css.map": "/study-react-movies/static/css/main.954e7325.css.map",
+    "main.8a78f86d.js.map": "/study-react-movies/static/js/main.8a78f86d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.954e7325.css",
+    "static/js/main.8a78f86d.js"
+  ]
+}
